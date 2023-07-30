@@ -1,3 +1,5 @@
+# EC2デモ環境の作成
+# 手順
 export AWS_ACCESS_KEY_ID="accesskey"
 export AWS_SECRET_ACCESS_KEY="secretkey"
 export AWS_DEFAULT_REGION="ap-northeast-1a"
